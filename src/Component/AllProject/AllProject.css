@@ -1,0 +1,27 @@
+ @media screen and (min-width: 900px) {
+    #card-header {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2rem;
+      /* padding-top: px; */
+    }
+  }
+  
+  @media screen and (min-width: 875px) {
+    #card-header {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  } 
+  .btn-menu{
+      text-align: center;
+      padding-top: 90px;
+      padding-bottom: 25px;
+  }
+  .btn-menu button{
+    padding:10px 20px 10px 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+
+  
+  
