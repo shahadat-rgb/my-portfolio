@@ -30,10 +30,10 @@ const AllProject = () => {
        <div id="card-header">
        {
            cart.map((cart) => {
-             const {img,title,description,githubLink,projectLink} = cart;
+             const {img,title, description, githubLink,projectLink} = cart;
              return(
                       <div class="card mb-3">
-                           <img class="card-img-top" style={{height:'200px'}} src={img} alt="Card image cap"/>
+                           <img class="card-img-top" style={{height:'201px'}} src={img} alt="Card image cap"/>
                         <div class="card-body text-center" style={{background:'#1f2235'}}>
                               <h3 style={{color: "#fff"}}>{title}</h3>
                               <div className="text-justify">
@@ -51,7 +51,7 @@ const AllProject = () => {
 
         </div>
       </div> 
-      <h5 className="text-center text-white pb-5 pt-5">Design & Created by <span style={{color:'rgb(81, 233, 157)'}}>shahadat hossain</span></h5>
+      <h5 className="text-center text-white pb-5 pt-4">Design & Created by <span style={{color:'rgb(81, 233, 157)'}}>shahadat hossain</span></h5>
     </div>
     
     );
