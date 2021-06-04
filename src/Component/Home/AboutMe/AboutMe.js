@@ -6,7 +6,7 @@ const AboutMe = () => {
     return (
         <div style={{ marginTop: "60px"}} id='AboutUs'>
              <h1 style={{ color:'white', textAlign: "center"}}>
-             About Me
+             --About Me--
         </h1>
        <div className="row align-items-center">
             <div className="col-md-6">

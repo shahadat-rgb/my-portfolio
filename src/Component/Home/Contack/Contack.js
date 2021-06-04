@@ -19,7 +19,7 @@ const Contack = () => {
     }
     return (
         <div>
-             <h2 style={{color:'#ff4a57',marginTop:'60px',marginBottom:'60PX',textAlign:'center'}}>Contact Us</h2>
+             <h2 style={{color:'white',marginTop:'60px',marginBottom:'60PX',textAlign:'center'}}>--Contact Us--</h2>
               <section className='d-flex justify-content-center'>
               <section className='col-12 col-sm-6 col-md-7 mb-5'> 
               <form onSubmit={sendEmail}> 

@@ -12,7 +12,7 @@ const AllBlog = () => {
         <div style={{backgroundColor:'#24273E'}}>
           <HeaderNavbar></HeaderNavbar><br/> <br/>
      <div className="container">
-       <h1 className="text-center text-white mt-5 mb-4">ALL BLOG</h1>
+       <h1 className="text-center text-white mt-5 mb-4">--All Blog--</h1>
      <div id="card-header">
        {
              blog.map((blog) => {

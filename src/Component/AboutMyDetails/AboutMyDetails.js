@@ -8,7 +8,7 @@ const AboutMyDetails = () => {
             <HeaderNavbar></HeaderNavbar>
        <div className="container">
        <h1 style={{ color:'white', textAlign: "center",paddingTop:'20px' }}>
-        About Me 
+        --About Me-- 
    </h1>
    <div className="row align-items-center">
             <div className="col-md-6">

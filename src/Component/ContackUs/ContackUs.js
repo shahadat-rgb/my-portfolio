@@ -22,7 +22,7 @@ const ContackUs = () => {
            <HeaderNavbar></HeaderNavbar>
           <div className="container">
           <div>
-             <h2 style={{color:'#ff4a57',paddingTop:'80px',marginBottom:'30PX',textAlign:'center'}}>Contact Us</h2>
+             <h2 style={{color:"white", paddingTop:'80px',marginBottom:'30PX',textAlign:'center'}}>Contact Us</h2>
               <section className='d-flex justify-content-center'>
               <section className='col-12 col-sm-6 col-md-7 mb-3'> 
               <form onSubmit={sendEmail}> 
