@@ -16,13 +16,15 @@ export const fakeData =
     "projectLink": "https://creative-agency-client-side.firebaseapp.com/",
     "catagori": "React"
   }, {
+  
     "id": 3,
-    "img": "https://eastceylon.com/images/2021/05/05/Screenshot-1081.png",
-    "title": "Travel guro",
-    "description": "This is a single travel guro website ,where people can select their favorite place in sreemangal, sajex and sundorbon.In this website there have been opportunities for hotels.so anyone can click if they want to stay.    ",
-    "githubLink": "https://github.com/shahadat-rgb/firebase-auth-assignment.git",
-    "projectLink": "https://fir-auth-assignment.firebaseapp.com/",
+    "img": "https://eastceylon.com/images/2021/06/19/home.png",
+    "title": "BD-Express",
+    "description": "This is a e-commrece website. I have created three types of products here.First of all, I have created some different types of products. Then laptops and mobiles. if you want to know more information of this project,please click the github link. ",
+    "githubLink": "https://github.com/shahadat-rgb/BD-Express.git",
+    "projectLink": "https://bd-express-73f41.web.app",
     "catagori": "React"
+
   }, {
     "id": 4,
     "img": "https://eastceylon.com/images/2021/05/05/Screenshot-1087.png",
@@ -33,11 +35,11 @@ export const fakeData =
     "catagori": "React"
   }, {
     "id": 5,
-    "img": "https://eastceylon.com/images/2021/05/05/ema-jhon.png",
-    "title": "Ema-jhone",
-    "description": "this is a e-commerce website. here have been option of add to product and know the product details. If user can be buy you will click the add to card button. and can be the checkout.    ",
-    "githubLink": "https://github.com/shahadat-rgb/ema-john.git",
-    "projectLink": "https://pedantic-easley-5a5276.netlify.app/",
+    "img": "https://eastceylon.com/images/2021/05/05/Screenshot-1081.png",
+    "title": "Travel guro",
+    "description": "This is a single travel guro website ,where people can select their favorite place in sreemangal, sajex and sundorbon.In this website there have been opportunities for hotels.so anyone can click if they want to stay.    ",
+    "githubLink": "https://github.com/shahadat-rgb/firebase-auth-assignment.git",
+    "projectLink": "https://fir-auth-assignment.firebaseapp.com/",
     "catagori": "React"
   }, {
     "id": 6,
