@@ -3,7 +3,7 @@ import './Header.css'
 import shahadat from "../../../shahadat.png";
 // import Typical from "react-typical";
 import { FaFacebookSquare, FaGithub, FaLinkedin, FaMedium } from "react-icons/fa";
-import resume from "./mohammad shahadat hossain CV.pdf";
+import resume from "./MD Shahadat Hossain CV.pdf";
 import { Link } from "react-router-dom";
 const Header = () => {
   // const expertise = [
@@ -70,7 +70,7 @@ const Header = () => {
               About Me
             </button>
           </Link>
-          <a href={resume} download="mohammad shahadat hossain CV.pdf">
+          <a href={resume} download="MD Shahadat Hossain CV.pdf">
             <button className="btn btn-outline-danger text-white pd-4">
                Download CV
             </button>

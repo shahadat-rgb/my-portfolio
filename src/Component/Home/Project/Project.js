@@ -18,7 +18,7 @@ const Project = () => {
            project.map((project) => {
              const {img,title,description,githubLink,projectLink} = project;
              return(
-                      <div class="card mb-3">
+                      <div class="card mb-3 project-image">
                            <img class="card-img-top" style={{height:'200px'}} src={img} alt="Card image cap"/>
                         <div class="card-body text-center" style={{background:'#1f2235'}}>
                               <h3 style={{color: "#fff"}}>{title}</h3>
