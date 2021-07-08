@@ -1,6 +1,7 @@
 import React from 'react';
 import emailjs from 'emailjs-com';
 import './Contack.css'
+import { useState } from 'react';
 
 const Contack = () => {
     function sendEmail(e) {
@@ -17,8 +18,12 @@ const Contack = () => {
           });
         
     }
+      
+  
+      
     return (
         <div>
+          
              <h2 style={{color:'white',marginTop:'60px',marginBottom:'60PX',textAlign:'center'}}>--Contact Us--</h2>
               <section className='d-flex justify-content-center'>
               <section className='col-12 col-sm-6 col-md-7 mb-5'> 
@@ -40,7 +45,10 @@ const Contack = () => {
               </section>
               </section>
                     <h5 className="text-center text-white pb-3">Design & Created by <span style={{color:'rgb(81, 233, 157)'}}>shahadat hossain</span></h5>
+           
+         
         </div>
+        
     );
 };
 

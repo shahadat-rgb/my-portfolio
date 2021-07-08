@@ -16,7 +16,7 @@ const AboutMyDetails = () => {
                 <img style={{ width:'50%'}} src={shahadat} alt=""/>
               </div>
               <h2 className='text-white text-center'> <span style={{color:'#ff4a57'}}>I'am</span> Shahadat Hossain</h2>
-             <p style={{color:"#ffffffb7"}} className='mb-3 text-justify'>I am not a CSE background student, I am a Madrasah background student.I am a front-end web developer.Recently I have finished more than a few  projects or many projects on javascript and react.js. And I can make perfect responsive website design with css, bootstrap4, material ui, flexbox, and grid layout.I also have solid knowledge working with node.js,express.js mongodb,firebase, and heroku.now i am ready and excited for learn redux , and next.js</p>
+             <p style={{color:"#ffffffb7"}} className='mb-3 text-justify'>I am not a CSE background student, I am a Madrasah background student.I am a front-end web developer.Recently I have finished more than a few  projects or many projects on javascript and react.js. And I can make perfect responsive website design with css, bootstrap4, material ui, flexbox, and grid layout.I also have solid knowledge working with node.js,express.js mongodb,firebase, and heroku.now i am ready and excited for learn redux , and TypeScript</p>
              <div className="text-center">
              <Link to='contack-us'><button className='btn btn-primary text-center w-100 text-white'>Hire me</button></Link>
              </div>
@@ -26,9 +26,11 @@ const AboutMyDetails = () => {
               <div style={{width:'100px',height:'3px',background:"#ff4a57",marginBottom:"15px"}}></div>
               <div className='technolog'>
                 <span>React.js</span>
+                <span>Typescript</span>
                 <span>javascript</span>
                 <span>C</span>
                 <span>ES6</span>
+                <span>Tailwind CSS</span>
                 <span>bootstrap4</span>
                 <span>Material-Ui</span><br/><br/>
                 <span>Node.js</span>
@@ -43,9 +45,10 @@ const AboutMyDetails = () => {
               <div style={{width:'100px',height:'3px',background:"#ff4a57",marginBottom:"15px"}}></div>
               <div className='technolog'>
                 <span>React.js</span>
+                <span>Typescript</span>
                 <span>javascript</span>
+                <span>Tailwind CSS</span>
                 <span>Node.js</span>
-                 <span>mongodb</span>
                 <br/><br/>
               </div>
 
@@ -53,8 +56,8 @@ const AboutMyDetails = () => {
               <div style={{width:'100px',height:'3px',background:"#ff4a57",marginBottom:"15px"}}></div>
               <div className='technolog'>
               <span>Redux.js</span>
-              <span>Next.js</span>
-                <br/><br/>
+              <span>TypeScript</span>
+              <br/><br/>
               </div>
            </div>
        </div>
