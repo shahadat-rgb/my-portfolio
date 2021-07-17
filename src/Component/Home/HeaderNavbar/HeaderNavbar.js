@@ -38,7 +38,7 @@ const HeaderNavbar = () => {
                            <h5> Contact</h5>
                     </Link>
                     </Nav.Link>
-                          <a href="https://drive.google.com/file/d/188PzpRQ0ypsBVeLUUNnQb51ZcvUXf8KA/view?usp=sharing"><button class="btn btn-outline-danger text-white my-2 my-sm-0" type="submit">Resume</button> </a>
+                          <a href="https://drive.google.com/file/d/1MTauy6a0tw8HKa9byT2rtkWrU8n7iKNk/view?usp=sharing"><button class="btn btn-outline-danger text-white my-2 my-sm-0" type="submit">Resume</button> </a>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
