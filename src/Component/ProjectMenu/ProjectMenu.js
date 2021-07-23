@@ -26,11 +26,11 @@ export const ProjectMenu =
     "catagori": "React"
   }, {
     "id": 4,
-    "img": "https://eastceylon.com/images/2021/05/05/Screenshot-1087.png",
-    "title": "Apertment hunt",
-    "description": "This is our team project. In these projects, we are learning many things and gain lots of experience. As a team group how to work in a software company. Here we use JIRA, for teamwork.    ",
-    "githubLink": "https://github.com/shahadat-rgb/apartment-hunt.git",
-    "projectLink": "https://apartment-hunt-7329e.web.app/",
+    "img": "https://eastceylon.com/images/2021/07/23/home.jpg",
+    "title": "E-commerce-Shop",
+    "description": "This is a Responsive e-commerce shop. I have created differnet type of baby cloth product.if you want to know more information of this project,please click the github link.then go to redmi file. ",
+    "githubLink": "https://github.com/shahadat-rgb/React-Redux-E-commerce-shop.git",
+    "projectLink": "https://react-redux-e-commerce-site.netlify.app/",
     "catagori": "React"
   }, {
     "id": 5,
